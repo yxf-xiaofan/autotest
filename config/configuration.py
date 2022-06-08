@@ -1,9 +1,3 @@
-import sys
-sys.path.append("C:\\Users\\fanhao\\Desktop\\auto\\autotest\\configuration.py")
-
-
-
-
 #配置浏览器
 driver_type = "chrome"
 
