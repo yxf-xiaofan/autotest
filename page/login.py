@@ -1,6 +1,8 @@
-from lib2to3.pgen2 import driver
 from selenium import webdriver
 from time import sleep
+import sys
+
+"""sys.path.append("C:\Users\fanhao\Desktop\auto\autotest\configuration.py")"""
 from configuration import *
 
 driver = webdriver.Chrome()
